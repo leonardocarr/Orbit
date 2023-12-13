@@ -1,6 +1,8 @@
 # Considerações
 O desenvolvimento deste projeto foi incrivelmente divertido e empolgante, mas também de valiosas aprendizagens. Embora tenha enfrentado algumas dificuldades ao longo do processo, consegui superar cada obstáculo, encontrando soluções eficazes para cada desafio. A seguir, descrevo minha jornada detalhadamente.
 
+Os prints do dashboard se encontram no caminho "/powerBi/Prints"
+
 # Etapa 1
 
 ### Sobre a base
